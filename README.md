@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @larashtiwy
-- 👀 I’m interested in UI/UX design
+- 👀 I’m interested in web design
 - 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
